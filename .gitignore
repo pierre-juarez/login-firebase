@@ -15,3 +15,10 @@
 
 # SO
 *.DS_Store
+
+# Pods
+Pods/
+
+# Files configuration
+*.xcuserdatad
+xcshareddata
